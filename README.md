@@ -18,9 +18,12 @@ The Video-Walkthroughs section contains video demonstrations of various Zimbra f
 ### Troubleshooting
 The Troubleshooting directory provides solutions to common issues encountered while using Zimbra.
 
-
-Resources
+### Resources
 The Resources section includes additional helpful materials to supplement your Zimbra journey.
+
+Join the Zimbra-101 community today and take your Zimbra experience to new heights. Empower yourself with the knowledge and skills to maximize productivity, streamline communication, and achieve seamless collaboration with Zimbra. Let's embark on this Zimbra journey together!
+
+Remember to FORK AND STAR Zimbra-101 and stay tuned for regular updates and additions to our growing collection of resources. Start exploring now and unlock the full potential of Zimbra!
 
 
 ### Contributing
@@ -35,7 +38,3 @@ We welcome contributions from the community to make Zimbra-101 even better. Plea
 ## 🛡️ License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-Join the Zimbra-101 community today and take your Zimbra experience to new heights. Empower yourself with the knowledge and skills to maximize productivity, streamline communication, and achieve seamless collaboration with Zimbra. Let's embark on this Zimbra journey together!
-
-Remember to FORK AND STAR Zimbra-101 and stay tuned for regular updates and additions to our growing collection of resources. Start exploring now and unlock the full potential of Zimbra!
