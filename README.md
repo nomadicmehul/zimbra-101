@@ -26,8 +26,15 @@ The Resources section includes additional helpful materials to supplement your Z
 ### Contributing
 We welcome contributions from the community to make Zimbra-101 even better. Please refer to the Contributing.md file for guidelines on how to contribute to this repository.
 
-### License
-This repository is licensed under the [MIT License](./LICENSE.MD).
+## 🤝 Contributors
+
+<a href="https://github.com/nomadicmehul/zimbra-101/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nomadicmehul/zimbra-101" />
+</a>
+
+## 🛡️ License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 Join the Zimbra-101 community today and take your Zimbra experience to new heights. Empower yourself with the knowledge and skills to maximize productivity, streamline communication, and achieve seamless collaboration with Zimbra. Let's embark on this Zimbra journey together!
 
